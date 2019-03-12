@@ -1,6 +1,6 @@
 # Performance and Cost Analysis Between Elasticity Strategies over Pipeline-Structured Applications
 
-The 9th International Conference on Cloud Computing and Services Science, CLOSER 2019
+# The 9th International Conference on Cloud Computing and Services Science, CLOSER 2019
 
 Here, you will find all used codes and results from the published paper.</br>
 
