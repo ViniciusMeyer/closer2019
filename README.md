@@ -8,6 +8,6 @@ Authors: Vinícius Meyer<sup>1</sup>, Miguel G. Xavier<sup>1</sup>, Dionatra F. 
 1-Pontifical Catholic University of Rio Grande do Sul (PUCRS), Porto Alegre, Brazil</br>
 2-University of Vale do Rio dos Sinos (UNISINOS), São Leopoldo, Brazil</br>
 
-MEYER, V., XAVIER, M. G., KIRCHOFF, D. F., RIGHI, R. R., DE ROSE, C. A.; Performance and Cost Analysis Between Elasticity Strategies over Pipeline-Structured Applications, In: 9th International Conference on Cloud Computing and Services Science (CLOSER 2019). Heraklion, Crete - Greece. p. xxx-xxx
+MEYER, V., XAVIER, M. G., KIRCHOFF, D. F., RIGHI, R. R., DE ROSE, C. A. F.; Performance and Cost Analysis Between Elasticity Strategies over Pipeline-Structured Applications, In: 9th International Conference on Cloud Computing and Services Science (CLOSER 2019). Heraklion, Crete - Greece. p. xxx-xxx
 
 If you have any question please email us through vinicius.meyer@edu.pucrs.br</br>
