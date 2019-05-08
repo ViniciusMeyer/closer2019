@@ -10,4 +10,4 @@ Authors: Vinícius Meyer<sup>1</sup>, Miguel G. Xavier<sup>1</sup>, Dionatra F. 
 
 Reference: MEYER, V., XAVIER, M. G., KIRCHOFF, D. F., RIGHI, R. R., DE ROSE, C. A. F.; Performance and Cost Analysis Between Elasticity Strategies over Pipeline-Structured Applications, In: 9th International Conference on Cloud Computing and Services Science (CLOSER 2019). Heraklion, Crete - Greece. p. xxx-xxx
 
-If you have any question please email us through vinicius.meyer@edu.pucrs.br</br>
+If you have any question please do not exitate to contact us through vinicius.meyer@edu.pucrs.br</br>
